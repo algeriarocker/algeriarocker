@@ -1,5 +1,7 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://static.wixstatic.com/media/ddc733_3bbc2b5d7b1b4c6d930f654b3cb15c3c~mv2.gif))](https://brain-g.blogspot.com/)
 <h1 align="center">Hi 👋, I'm algeriarocker</h1>
 <h3 align="center">embedded system and ai in the edge computing, web and mobile applications developer</h3>
+<img align="right" alt="Coding" width="400" src="https://blogdatlas.files.wordpress.com/2021/08/datlas_skills_drib_elcorreo_danimaiz_00.gif">
 
 <p align="left"> <a href="https://twitter.com/algeriarocker" target="blank"><img src="https://img.shields.io/twitter/follow/algeriarocker?logo=twitter&style=for-the-badge" alt="algeriarocker" /></a> </p>
 
